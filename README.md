@@ -1,6 +1,8 @@
 # vue3-chrome-extension-templete
 
 ## Project description
+| `tech`   | version  |
+|  ----  | ----  |
 | `vue-cli`        |    5.0.6     |
 | `vue`        |    3.2.13     |
 | `tailwind/postcss7-compat`        |    2.2.17     |
